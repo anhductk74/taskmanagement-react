@@ -196,5 +196,5 @@ As an Admin, I want to view audit logs of user activity, so that I can trace imp
 **Priority:** High  
 **Story Points:** 4  
 **UI Design:** Figma link / Attached screenshot  
->>>>>>>> origin/namle:src/requirement/docs/Functions/Admin/Admin-user-stories.md
->>>>>>> origin/namle
+
+
