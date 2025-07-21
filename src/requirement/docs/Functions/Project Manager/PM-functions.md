@@ -21,20 +21,18 @@
 - Cập nhật trạng thái task (To Do, In Progress, Done, ...)
 - Bình luận và thảo luận trong từng task
 - Chỉnh sửa, phân công lại hoặc thay đổi lịch task
+- Xem và quản lý danh sách task của chính mình
 
 ## 📈 Theo dõi Tiến độ
 
 - Xem dashboard tổng quan tiến độ của dự án
 - Nhận thông báo khi task quá hạn hoặc hoàn thành
 
-## 📅 Lập Kế hoạch & Quản lý Lịch trình
+## 📅 Quản lý Lịch trình & Thời gian
 
-- Xem lịch công việc và deadline
-- Thiết lập các mốc quan trọng (milestones)
-
-## 📆 Quản lý Lịch họp
-
+- Xem lịch tổng hợp gồm: công việc, milestone và lịch họp
 - Tạo lịch họp (thời gian, tiêu đề, nội dung, người tham gia)
 - Chỉnh sửa hoặc hủy cuộc họp
 - Gửi lời mời họp và thông báo đến các thành viên
-- Xem danh sách các cuộc họp đã lên lịch
+- Thiết lập các mốc quan trọng (milestones) trong dự án
+- Xem lịch công việc cá nhân và các deadline quan trọng
