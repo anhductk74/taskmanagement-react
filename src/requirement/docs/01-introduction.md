@@ -15,7 +15,7 @@ Phát triển một hệ thống website giúp tổ chức/doanh nghiệp:
 
 ## Phạm vi
 - Giao diện Web cho người dùng bên ngoài (public)
-- Hệ thống back-office (private) cho các vai trò: Admin, Project Manager, Member
+- Hệ thống back-office (private) cho các vai trò: Admin, Owner, Project Manager, Leader, Member
 
 ## Công nghệ đề xuất
 - Frontend: React.js / Next.js
